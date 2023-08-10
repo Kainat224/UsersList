@@ -22,3 +22,12 @@
   border: none;
   padding: 10px;
 }
+.displayUsersList {
+  list-style: none;
+  padding: 4px;
+}
+.deleteItemBtn {
+  color: red;
+  background-color: white;
+  border: 0;
+}
